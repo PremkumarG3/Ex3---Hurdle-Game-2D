@@ -88,6 +88,7 @@ public class Score : MonoBehaviour
 
 ## OUTPUT:
 ![alt text](<ArVr exp3.jpg>)
+![alt text](<VrAr 2.jpg>)
 
 ## RESULT:
 
